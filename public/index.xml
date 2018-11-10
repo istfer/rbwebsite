@@ -479,6 +479,24 @@ git submodule update --init --recursive
     </item>
     
     <item>
+      <title>Modeling vegetation change during Late Cenozoic uplif of the East African plateaus</title>
+      <link>/publication/late-cenozoic-paper/</link>
+      <pubDate>Wed, 13 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/late-cenozoic-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-resolution modelling closes the gap between data and model simulations for Mid-Holocene and present-day biomes of East Africa</title>
+      <link>/publication/highres-paper/</link>
+      <pubDate>Sat, 12 Dec 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/highres-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hello R Markdown</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>

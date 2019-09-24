@@ -20,12 +20,22 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Senior Researcher"
+  company = "Carbon Cycle Group, Finnish Meteorological Institute"
+  company_url = "https://en.ilmatieteenlaitos.fi/climate-system-research"
+  location = "Helsinki"
+  date_start = "2019-08-01"
+  date_end = ""
+  description = """
+
+
+[[experience]]
   title = "Lecturer"
   company = "Boston University"
   company_url = ""
   location = "Boston"
   date_start = "2018-09-01"
-  date_end = "2018-12-31"
+  date_end = "2019-05-01"
   description = """Taught introductory quantitative environmental modeling."""
 
 
@@ -35,7 +45,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Boston"
   date_start = "2016-01-01"
-  date_end = ""
+  date_end = "2019-07-31"
   description = """
 
 

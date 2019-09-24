@@ -1,114 +1,185 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     <url>
     
-      <loc>https://istfer.github.io/publication/emulator-paper/</loc>
-      <lastmod>2018-10-04T00:00:00-04:00</lastmod>
+      <loc>/</loc>
+      <lastmod>2018-10-04T00:00:00+03:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://istfer.github.io/tutorial/example/</loc>
-      <lastmod>2018-09-09T00:00:00-04:00</lastmod>
+      <loc>/publication_types/2/</loc>
+      <lastmod>2018-10-04T00:00:00+03:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://istfer.github.io/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00-04:00</lastmod>
+      <loc>/publication/emulator-paper/</loc>
+      <lastmod>2018-10-04T00:00:00+03:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://istfer.github.io/publication/enso-paper/</loc>
-      <lastmod>2017-09-28T00:00:00-04:00</lastmod>
+      <loc>/publication_types/</loc>
+      <lastmod>2018-10-04T00:00:00+03:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://istfer.github.io/talk/example/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <loc>/tutorial/example/</loc>
+      <lastmod>2018-09-09T00:00:00+03:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://istfer.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <loc>/tutorial/</loc>
+      <lastmod>2018-09-09T00:00:00+03:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://istfer.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <loc>/privacy/</loc>
+      <lastmod>2018-06-28T00:00:00+03:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://istfer.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <loc>/publication/enso-paper/</loc>
+      <lastmod>2017-09-28T00:00:00+03:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://istfer.github.io/project/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <loc>/talk/example/</loc>
+      <lastmod>2017-01-01T00:00:00+02:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://istfer.github.io/project/internal-project/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <loc>/post/</loc>
+      <lastmod>2017-01-01T00:00:00+02:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://istfer.github.io/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
+      <loc>/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+02:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://istfer.github.io/publication/late-cenozoic-paper/</loc>
-      <lastmod>2016-04-13T00:00:00-04:00</lastmod>
+      <loc>/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+02:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://istfer.github.io/publication/highres-paper/</loc>
-      <lastmod>2015-12-12T00:00:00-05:00</lastmod>
+      <loc>/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://istfer.github.io/post/2015-07-23-r-rmarkdown/</loc>
+      <loc>/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/external-project/</loc>
+      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/internal-project/</loc>
+      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2018-01-13T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/academic/</loc>
+      <lastmod>2018-01-13T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/getting-started/</loc>
+      <lastmod>2018-01-13T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/late-cenozoic-paper/</loc>
+      <lastmod>2016-04-13T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/highres-paper/</loc>
+      <lastmod>2015-12-12T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
@@ -116,131 +187,54 @@
     
     <url>
     
-      <loc>https://istfer.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://istfer.github.io/publication_types/2/</loc>
-      <lastmod>2018-10-04T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://istfer.github.io/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://istfer.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://istfer.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://istfer.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://istfer.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://istfer.github.io/publication_types/</loc>
-      <lastmod>2018-10-04T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://istfer.github.io/categories/r/</loc>
+      <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>https://istfer.github.io/tags/r-markdown/</loc>
+      <loc>/tags/plot/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>https://istfer.github.io/slides/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://istfer.github.io/slides/example-slides/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://istfer.github.io/tags/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://istfer.github.io/tags/plot/</loc>
+      <loc>/categories/r/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>https://istfer.github.io/tags/regression/</loc>
+      <loc>/tags/r-markdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/regression/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/slides/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/slides/example-slides/</loc>
     </url>
     
   

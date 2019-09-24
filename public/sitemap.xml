@@ -1,33 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     <url>
     
-      <loc>https://fer.com/</loc>
-      <lastmod>2018-10-04T00:00:00+03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://fer.com/publication_types/2/</loc>
-      <lastmod>2018-10-04T00:00:00+03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://fer.com/publication/emulator-paper/</loc>
-      <lastmod>2018-10-04T00:00:00+03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://fer.com/publication_types/</loc>
       <lastmod>2018-10-04T00:00:00+03:00</lastmod>
     </url>
     
@@ -91,22 +68,6 @@
     
     <url>
     
-      <loc>https://fer.com/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://fer.com/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://fer.com/project/external-project/</loc>
       <lastmod>2016-04-27T00:00:00+03:00</lastmod>
     </url>
@@ -117,30 +78,6 @@
     
       <loc>https://fer.com/project/internal-project/</loc>
       <lastmod>2016-04-27T00:00:00+03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://fer.com/project/</loc>
-      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://fer.com/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://fer.com/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -171,14 +108,6 @@
     
     <url>
     
-      <loc>https://fer.com/categories/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://fer.com/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
@@ -187,8 +116,71 @@
     
     <url>
     
-      <loc>https://fer.com/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <loc>https://fer.com/</loc>
+      <lastmod>2017-10-15T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://fer.com/publication_types/2/</loc>
+      <lastmod>2018-10-04T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://fer.com/tags/academic/</loc>
+      <lastmod>2018-01-13T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://fer.com/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://fer.com/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://fer.com/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://fer.com/project/</loc>
+      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://fer.com/publication_types/</loc>
+      <lastmod>2018-10-04T00:00:00+03:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -197,6 +189,7 @@
     
       <loc>https://fer.com/categories/r/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -205,6 +198,40 @@
     
       <loc>https://fer.com/tags/r-markdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://fer.com/slides/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://fer.com/slides/example-slides/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://fer.com/tags/</loc>
+      <lastmod>2018-01-13T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://fer.com/tags/plot/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -213,20 +240,7 @@
     
       <loc>https://fer.com/tags/regression/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://fer.com/slides/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://fer.com/slides/example-slides/</loc>
+      <priority>0</priority>
     </url>
     
   

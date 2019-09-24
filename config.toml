@@ -52,18 +52,18 @@ enableGitInfo = false
 
   # Your details.
   name = "Istem Fer"
-  role = "Postdoctoral researcher at Ecological Forecasting Lab"
+  role = "Senior researcher"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Boston University", url = "" } ]
+  organizations = [ { name = "Finnish Meteorological Institute", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "if.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "fer.istem@gmail.com"
-  address = "Department of Earth & Environment, Boston University, Boston, MA 02215, USA"
+  address = "Finnish Meteorological Institute, Helsinki, FI"
   office_hours = ""
   phone = ""
   skype = ""

@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on </title>
-    <link>/home/</link>
+    <link>https://fer.com/home/</link>
     <description>Recent content in Homes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 23 Jul 2018 00:00:00 +0300</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fer.com/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/hero_carousel/</link>
+      <link>https://fer.com/home/hero_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0300</pubDate>
       
-      <guid>/home/hero_carousel/</guid>
+      <guid>https://fer.com/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Istem Fer</title>
-      <link>/home/hero/</link>
+      <link>https://fer.com/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0300</pubDate>
       
-      <guid>/home/hero/</guid>
+      <guid>https://fer.com/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes :deciduous-tree:
  </description>
     </item>
     
     <item>
       <title></title>
-      <link>/home/about/</link>
+      <link>https://fer.com/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
-      <guid>/home/about/</guid>
+      <guid>https://fer.com/home/about/</guid>
       <description>Current Research My current research focuses on improving ecosystem models through data assimilation. I am interested in constraining and validating models using a diversity of data types in a Bayesian framework. For this purpose I am using and contributing to development of PEcAn (Predictive Ecosystem Analyzer) which is an ecological bioinformatics toolbox for improving communication between models and data.</description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>/home/skills/</link>
+      <link>https://fer.com/home/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0300</pubDate>
       
-      <guid>/home/skills/</guid>
+      <guid>https://fer.com/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>/home/experience/</link>
+      <link>https://fer.com/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/experience/</guid>
+      <guid>https://fer.com/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>/home/publications_selected/</link>
+      <link>https://fer.com/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
-      <guid>/home/publications_selected/</guid>
+      <guid>https://fer.com/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/home/publications/</link>
+      <link>https://fer.com/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
-      <guid>/home/publications/</guid>
+      <guid>https://fer.com/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Talks</title>
-      <link>/home/talks_selected/</link>
+      <link>https://fer.com/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
-      <guid>/home/talks_selected/</guid>
+      <guid>https://fer.com/home/talks_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/home/talks/</link>
+      <link>https://fer.com/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
-      <guid>/home/talks/</guid>
+      <guid>https://fer.com/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>/home/posts/</link>
+      <link>https://fer.com/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
-      <guid>/home/posts/</guid>
+      <guid>https://fer.com/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/home/projects/</link>
+      <link>https://fer.com/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
-      <guid>/home/projects/</guid>
+      <guid>https://fer.com/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/home/teaching/</link>
+      <link>https://fer.com/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
-      <guid>/home/teaching/</guid>
+      <guid>https://fer.com/home/teaching/</guid>
       <description>Departmental courses
  Introduction to quantitative environmental modeling Earth System Modeling and Data in R  Guest lecturer
  Applied Environmental Statistics  Short courses
@@ -127,28 +127,28 @@
     
     <item>
       <title>Tags</title>
-      <link>/home/tags/</link>
+      <link>https://fer.com/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0300</pubDate>
       
-      <guid>/home/tags/</guid>
+      <guid>https://fer.com/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>/home/search/</link>
+      <link>https://fer.com/home/search/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 +0300</pubDate>
       
-      <guid>/home/search/</guid>
+      <guid>https://fer.com/home/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/home/contact/</link>
+      <link>https://fer.com/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
-      <guid>/home/contact/</guid>
+      <guid>https://fer.com/home/contact/</guid>
       <description></description>
     </item>
     
